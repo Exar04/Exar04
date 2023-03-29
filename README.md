@@ -1,4 +1,6 @@
-### <p align="center" style= "font-style: italic">Hi there 👋, I am Yash</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DDDDDDF1&background=FAFFC100&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there+!!!%F0%9F%91%8B%2C+I+am+Yash.+" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://twitter.com/Yash_Dhadve4"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
