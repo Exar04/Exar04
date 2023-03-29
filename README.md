@@ -1,6 +1,4 @@
-<p align="center">
-### Hi there 👋, I am Yash
-</p>
+###<p align="center">Hi there 👋, I am Yash</p>
 
 #### I like working on backend and converting math functions into code.
 ![I like working on backend and converting math functions into code.](https://github.com/Exar04/Exar04/blob/main/image.png)
