@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Yash
 #### I like working on backend and converting math functions into code.
-![I like working on backend and converting math functions into code.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I like working on backend and converting math functions into code.](https://github.com/Exar04/Exar04/blob/main/image.png)
 
 I like talking to people about tech and philosophy.
 
