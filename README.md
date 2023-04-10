@@ -21,7 +21,7 @@ I like talking to people about tech and philosophy.<br>
 Skills: Nodejs, Go, python, docker <br>
   - 🔭 Learning Rust and math.
 </p>
-
+<a href="https://exar04.github.io/Portfolio/"><p align = "center" >Portfolio </p><a>
 
 
 
