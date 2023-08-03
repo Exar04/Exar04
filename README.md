@@ -12,7 +12,7 @@
 
 <br/>
 
-#### <p align="center" style= "font-style: italic">I like working on backend and converting math functions into code.</p>
+#### <p align="center" style= "font-style: italic">I like working on backend and building new things</p>
 ![I like working on backend and converting math functions into code.](https://github.com/Exar04/Exar04/blob/main/image.png)
 
 
