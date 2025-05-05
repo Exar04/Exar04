@@ -12,13 +12,13 @@
 
 <br/>
 
-#### <p align="center" style= "font-style: italic">I like working on backend and building new things</p>
+#### <p align="center" style= "font-style: italic">I like working on backend, compilers, k8s, internal components and building new things</p>
 ![I like working on backend and converting math functions into code.](https://github.com/Exar04/Exar04/blob/main/image.png)
 
 
 <p align="center" style= "font-style: italic">
 I like talking to people about tech and philosophy.<br>
-Skills: Nodejs, Go, python, docker <br>
+Skills: Nodejs, Go, ts, cpp, docker, k8s, compilers, git<br>
   - 🔭 Learning Rust and math.
 </p>
 <a href="https://exar04.github.io/Portfolio/"><p align = "center" >Portfolio </p><a>
